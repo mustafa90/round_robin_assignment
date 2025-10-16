@@ -8,13 +8,13 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "A robust and flexible round-robin assignment system for Rails applications"
   spec.description   = "A database-backed round-robin assignment system with support for multiple groups, persistent state, and dynamic assignee lists. Perfect for distributing tasks, assignments, or work items evenly across team members."
-  spec.homepage      = "https://github.com/yourusername/round_robin_assignment"
+  spec.homepage      = "https://github.com/mustafa90/round_robin_assignment"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "https://github.com/yourusername/round_robin_assignment"
-  spec.metadata["changelog_uri"] = "https://github.com/yourusername/round_robin_assignment/blob/main/CHANGELOG.md"
+  spec.metadata["source_code_uri"] = "https://github.com/mustafa90/round_robin_assignment"
+  spec.metadata["changelog_uri"] = "https://github.com/mustafa90/round_robin_assignment/blob/main/CHANGELOG.md"
 
   # Specify which files should be added to the gem when it is released.
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
