@@ -1,0 +1,16 @@
+===============================================================================
+
+Round Robin Assignment has been successfully installed!
+
+Next steps:
+
+1. Run the migration:
+   $ rails db:migrate
+
+2. Start using it in your code:
+   RoundRobinAssignment.get_next_assignee('support_team', [1, 2, 3, 4, 5])
+
+For more information, see the documentation at:
+https://github.com/yourusername/round_robin_assignment
+
+===============================================================================
